@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BingeBox</string>
+    <string name="romantic_comedy">Romantic Comedy</string>
+    <string name="tv_shows">TV\nShows</string>
+    <string name="romentic_comedy">Romentic\nComedy</string>
+    <string name="no_movies_found">No movies found</string>
+</resources>
